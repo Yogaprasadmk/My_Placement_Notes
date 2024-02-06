@@ -1,4 +1,6 @@
+<hr>
 <h1>Aptitude Topics</h1>
+<hr>
 Numbers
 <br>
 LCM and HCF
@@ -57,6 +59,7 @@ Simplification and Approximation
 <br>
 <hr/>
 <h1>Logical Reasoning Topics</h1>
+<hr>
 Series: Missing Numbers, Odd One Out
 <br/>
 Data Sufficiency
@@ -84,6 +87,7 @@ Dices
 Deductive Reasoning/Statement Analysis 
 <hr/>
 <h1>Verbal Ability</h1>
+<hr>
 Passage/Sentence Rearrangement 
 <br>
 Error Detection and Correction
@@ -103,3 +107,4 @@ Idioms and phrases
 Vocabulary and grammar
 <br>
 One word Substitution
+<hr>
