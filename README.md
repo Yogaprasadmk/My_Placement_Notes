@@ -55,3 +55,6 @@ Coding-Decoding
 Race
 <br>
 Simplification and Approximation
+<br>
+<hr/>
+<h1>Logical Reasoning Topics</h1>
