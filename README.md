@@ -1,5 +1,4 @@
 <h1>Aptitude Topics</h1>
-<br>
 Numbers
 <br>
 LCM and HCF
@@ -58,3 +57,49 @@ Simplification and Approximation
 <br>
 <hr/>
 <h1>Logical Reasoning Topics</h1>
+Series: Missing Numbers, Odd One Out
+<br/>
+Data Sufficiency
+<br/>
+Assumptions and Conclusions, Courses of Action 
+<br/>
+Puzzles 
+<br/>
+Syllogism 
+<br/>
+Cubes 
+<br/>
+Alphanumeric series
+<br/>
+Reasoning Analogy 
+<br/>
+Blood Relations 
+<br/>
+Calendars
+<br/>
+Clocks 
+<br/>
+Dices
+<br/>
+Deductive Reasoning/Statement Analysis 
+<hr/>
+<h1>Verbal Ability</h1>
+Passage/Sentence Rearrangement 
+<br>
+Error Detection and Correction
+<br>
+Fill in the Blanks
+<br>
+Comprehension Passages
+<br>
+Cloze test
+<br>
+Jumbled words/Paragraphs 
+<br>
+Antonyms and synonyms 
+<br>
+Idioms and phrases
+<br>
+Vocabulary and grammar
+<br>
+One word Substitution
