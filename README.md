@@ -108,3 +108,8 @@ Vocabulary and grammar
 <br>
 One word Substitution
 <hr>
+<h1>DSA</h1>
+<hr>
+<br>
+<h1>Core Subjects</h1>
+<br>
