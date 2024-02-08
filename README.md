@@ -111,8 +111,10 @@ One word Substitution
 <h1>DSA</h1>
 <hr>
 <h1>Core Subjects</h1>
-<h3>DBMS</h3>
-<h3>OOPS</h3>
-<h3>OS</h3>
-<h3>CN</h3>
-<br>
+<ul>
+<li><h3>DBMS</h3></li>
+<li><h3>OOPS</h3></li>
+<li><h3>OS</h3></li>
+<li><h3>CN</h3></li>
+</ul>
+  <br>
