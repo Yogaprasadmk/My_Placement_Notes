@@ -1,7 +1,7 @@
 <hr>
 <h1>Aptitude Topics</h1>
 <hr>
-Numbers
+Numbers Series
 <br>
 LCM and HCF
 <br>
@@ -61,7 +61,7 @@ Simplification and Approximation
 <h1>Logical Reasoning Topics</h1>
 <hr>
 <h1>Series</h1>
-<h5>Video 1:Element Series</h5>
+<h3>Video 1:Element Series</h3>
 <a href="https://youtu.be/haHyz4HpC8I"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/3fd6bd0e-45e7-4482-a0a9-74cdae50abd3"></a>
 </a>
 <br/>
