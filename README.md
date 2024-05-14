@@ -126,12 +126,30 @@ Vocabulary and grammar
 One word Substitution
 <hr>
 <h1>DSA</h1>
+<h3>C++ Basics</h3>
+<a href="https://youtu.be/EAR7De6Goz4"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/198bc73b-9267-4e52-9b2f-ddcdccfa2521"></a>
+<h3>C++ STL</h3>
+<a href="https://youtu.be/RRVYpIET_RU"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/c752733f-0ebc-4f31-a812-be2fded40242"></a>
+<h3>Patterns</h3>
+<a href="https://youtu.be/tNm_NNSB3_w"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f48fac95-1b7d-45de-bb9b-b393d396d551"></a>
+<h3>Basic Maths</h3>
+<a href="https://youtu.be/1xNbjMdbjug"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4d0a4a76-eff4-45d2-a3f0-c05d0b8e0fd1"/></a>
 <hr>
 <h1>Core Subjects</h1>
-<ul>
-<li><h3>DBMS</h3></li>
-<li><h3>OOPS</h3></li>
-<li><h3>OS</h3></li>
-<li><h3>CN</h3></li>
-</ul>
+  <h2>🌟Operating Systems</h2>
+  <a href="https://youtu.be/3obEP8eLsCw?si=qwqnZtIN0kiaG91m"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/e03a8bed-1126-437e-8b3e-52731b365ca4"></a>
+  <h3><a href="https://drive.google.com/file/d/1YHJktzBS2s2Q0A93jBuo6kbbXlSU1b_H/view">🚀Click here for Notes</a></h3>
+  <h2>🌟Computer Networks</h2>
+  <a href="https://youtu.be/IPvYjXCsTg8?si=SY-Lu5_l33dxjkhT"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ef240cd3-d433-409f-be8e-66f5b9038119"></a>
   <br>
+  <h3><a href="https://drive.google.com/file/d/10w8fRrRdaLIL1IXDaX6ufQJaaYYdIcKR/view">🚀Click here for Notes</a></h3>
+  <h2>🌟Database Management System</h2>
+   <a href="https://youtu.be/dl00fOOYLOM?si=oJAfGiniWtjxQ6tL"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/192497a5-3513-43e1-959d-83a0c80a0c98"></a>
+   <br/>
+   <h3><a href="https://drive.google.com/file/d/1vmLWJSJStfXRdAwtMFz1Kpj2Nnj7b9hY/view">🚀Click here for Notes</h3>
+   <h2>🌟Object Oriented Programming</h2>
+   <a href="https://youtu.be/a199KZGMNxk?si=Uf6mABEqvFKuL-Py"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/92d3b3a9-6077-4115-9891-ed31873926b9"/></a>
+     <br/>
+     <h3><a href="https://drive.google.com/file/d/1_j7guQZdReJ9GzMdFhqRscXq9rnquBya/view">🚀Click here for Notes</a></h3>
+   <hr/>
+   
