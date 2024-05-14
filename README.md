@@ -1,7 +1,14 @@
 <hr>
 <h1>Aptitude Topics</h1>
-<hr>
-Numbers Series
+<hr/>
+<h1>Number Series</h1>
+<h3>Video 1: Mixture </h3>
+<a href="https://youtu.be/aT9gStcGvnc"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/154093d8-4a61-4f26-94be-6c529beb1c1d"></a>
+<h3>Video 2: Divisibilty rule </h3>
+<a href="https://youtu.be/QUP1FpINICo"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/973e1255-8f25-4053-8cf9-c1a437a0e099"></a>
+<h3>Video 3: Unit Digit</h3>
+<a href="https://youtu.be/ol7Lo9b0f4o"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/e458b6b1-8131-46cc-b4fe-bc25b6879baf"></a>
+<hr/>
 <br>
 LCM and HCF
 <br>
@@ -70,6 +77,7 @@ Simplification and Approximation
 <a href="https://youtu.be/0JfadeuROfU?si=DTl3oZrLXPw7Zbt_"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/baff987b-70a4-4d8e-9be5-b2c8b1ff09f4" width=1000 height=500></a>
 <h3>Video 4: Continous Pattern Series</h3>
 <a href="https://www.youtube.com/watch?v=f3rRFMqMjWk"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ebdf5b21-a8dc-4456-9859-e6f8d293112a"></a>
+<hr/>
 <br/>
 Data Sufficiency
 <br/>
