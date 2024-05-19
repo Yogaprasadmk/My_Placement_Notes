@@ -28,7 +28,22 @@ Mixtures and Alligation
 <br>
 Algebra
 <br>
-Average
+<h1>Average</h1>
+<h3>Video 1: Introduction </h3>
+<a href="https://youtu.be/Qx73gH1kdfw"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/b2b983eb-561e-4a9e-a6f2-a7abf81e4c03"></a>
+<h3>Video 2: Basic Questions </h3>
+<a href="https://youtu.be/w5Vel3L0OwY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/242b6cc4-1007-4e75-a8ce-fee610164fb1"></a>
+<h3>Video 3: Based on Equation </h3>
+<a href="https://youtu.be/19flnsfcR8s"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/7700840b-e263-4afc-a34e-56a6ffb15286"></a>
+<h3>Video 4: True and False average</h3>
+<a href="https://youtu.be/V-M3S1vo2s4"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/8f2aaa20-98ab-469a-8a06-424e12a28cd4"></a>
+<h3>Video 5: Replacing a person </h3>
+<a href="https://youtu.be/-L6jdH3C-5E"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1040b895-45dd-4db1-a789-89ae5aae0101"></a>
+<h3>Video 6:Including / excluding </h3>
+<a href="https://youtu.be/N1z-vDy0WZE"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/e4834359-6a5e-4a1c-9b88-cdf000982edd)"></a>
+<h3>Video 7:Average Speed </h3>
+<a href="https://youtu.be/eV_5viRLv4oc"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1f70925f-c334-4ed4-b8e6-25e878384d94"></a>
+<hr/>
 <br>
 Age
 <br>
