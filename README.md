@@ -22,7 +22,14 @@ Trains, Boats, and Streams
 <br>
 Percentages 
 <br>
-Ratio Proportion and Partnership 
+<h1>Ratio and Proportion</h1>
+<h3>Video 1: Introduction</h3>
+<a href="https://youtu.be/SGj_uTJ83s0"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/a05c17b7-b2c9-4873-9fce-1c258245a29a"/></a>
+<h3>Video 2: Finding Ratio?</h3>
+<a href="https://youtu.be/RY32p6o7PSU"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/105fca35-60ca-4fe2-a775-9a1d258ba2ad"/></a>
+<h3>Video 3: Dividing into parts</h3>
+<a href="https://youtu.be/ZIygu6VmFc0"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/8dc7ce14-575b-43b9-ab3a-62727c03c791"/></a>
+<hr/>
 <br>
 Mixtures and Alligation
 <br>
