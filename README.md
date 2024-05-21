@@ -100,6 +100,15 @@ Simplification and Approximation
 <h3>Video 4: Continous Pattern Series</h3>
 <a href="https://www.youtube.com/watch?v=f3rRFMqMjWk"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ebdf5b21-a8dc-4456-9859-e6f8d293112a"></a>
 <hr/>
+<h1>Directions</h1>
+<h3>Video 1: Introduction</h3>
+<a href="https://youtu.be/dQVqgARjGPw"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/8dfda748-00a5-4406-9f2d-9302ba5a1a33"/></a>
+<h3>Video 2: Basic Question</h3>
+<a href="https://youtu.be/cLaN8YzXLFQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/c956e0fe-c05c-4105-bb66-4bf45f14c134"/></a>
+<h3>Vide 3: Pythagoras Theorem</h3>
+<a href="https://youtu.be/hdzu3LnFQ60"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/a7f49643-e1a1-4d09-a1f6-2bcb896cc417"/></a>
+<h3>Video 4: BAsed on NE/SE/NW/SW</h3>
+<a href="https://youtu.be/DiFUBAROndg"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1339fec9-b389-4941-909b-4907f0e8310f"></a>
 <br/>
 Data Sufficiency
 <br/>
