@@ -165,6 +165,8 @@ One word Substitution
 <a href="https://youtu.be/tNm_NNSB3_w"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f48fac95-1b7d-45de-bb9b-b393d396d551"></a>
 <h3>Basic Maths</h3>
 <a href="https://youtu.be/1xNbjMdbjug"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4d0a4a76-eff4-45d2-a3f0-c05d0b8e0fd1"/></a>
+<h3>Time & Space Complexity</h3>
+<a href="https://youtu.be/FPu9Uld7W-E"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ecca5b4a-d7c4-46d5-a71c-f7a2fdd16d77"/></a>
 <hr>
 <h1>Core Subjects</h1>
   <h2>🌟Operating Systems</h2>
