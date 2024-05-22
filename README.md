@@ -29,6 +29,10 @@ Percentages
 <a href="https://youtu.be/RY32p6o7PSU"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/105fca35-60ca-4fe2-a775-9a1d258ba2ad"/></a>
 <h3>Video 3: Dividing into parts</h3>
 <a href="https://youtu.be/ZIygu6VmFc0"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/8dc7ce14-575b-43b9-ab3a-62727c03c791"/></a>
+<h3>Video 4:Build on Numbers</h3>
+<a href="https://youtu.be/Ry2QFOMPdfQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/d2d5158e-6fcd-499b-a085-500b5473c62a"/></a>
+<h3>Video 5: Boys & girls</h3>
+<a href="https://youtu.be/dYwNacBHa6A"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/0fb0370e-700f-4b5e-aaec-644ae80f3020"/>
 <hr/>
 <br>
 Mixtures and Alligation
