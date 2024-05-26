@@ -34,7 +34,7 @@ Percentages
 <h3>Video 5: Boys & girls</h3>
 <a href="https://youtu.be/dYwNacBHa6A"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/0fb0370e-700f-4b5e-aaec-644ae80f3020"/>
 <h3>Video 6:Income and Expenditure</h3>
-<a href=""><img src=""/></a>
+<a href="https://youtu.be/HDDaMf5JtYc"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/3d1cf2f3-1495-4bf8-9193-2a00792d86fd"/></a>
 <h3>Video 7:Coins</h3>
 <a href="https://youtu.be/YSPXJUha6HY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4359f528-52a8-4dac-905e-bd25c7b39148"/></a>
 <h3>Video 8: Ages</h3>
@@ -121,6 +121,13 @@ Simplification and Approximation
 <a href="https://youtu.be/hdzu3LnFQ60"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/a7f49643-e1a1-4d09-a1f6-2bcb896cc417"/></a>
 <h3>Video 4: BAsed on NE/SE/NW/SW</h3>
 <a href="https://youtu.be/DiFUBAROndg"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1339fec9-b389-4941-909b-4907f0e8310f"></a>
+<h3>Video 5:Based on Angle</h3>
+<a href="https://youtu.be/WHL05dSPvaQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/19c9bbee-07c8-41d1-8eee-70a6db18889a"></a>
+<h3>Video 6:Miscellaneous</h3>
+<a href="https://youtu.be/-fLI_rBjzJA"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/6762a71e-f394-4641-9fc5-d3dba5c71a7b"></a>
+<h3>Confusion Questions</h3>
+<a href="https://youtu.be/g3uzXJi6pxk"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f50a2a76-6e7b-4d21-aabb-7903f3c2b138"></a>
+<hr/>
 <br/>
 Data Sufficiency
 <br/>
