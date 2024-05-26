@@ -33,6 +33,14 @@ Percentages
 <a href="https://youtu.be/Ry2QFOMPdfQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/d2d5158e-6fcd-499b-a085-500b5473c62a"/></a>
 <h3>Video 5: Boys & girls</h3>
 <a href="https://youtu.be/dYwNacBHa6A"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/0fb0370e-700f-4b5e-aaec-644ae80f3020"/>
+<h3>Video 6:Income and Expenditure</h3>
+<a href=""><img src=""/></a>
+<h3>Video 7:Coins</h3>
+<a href="https://youtu.be/YSPXJUha6HY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4359f528-52a8-4dac-905e-bd25c7b39148"/></a>
+<h3>Video 8: Ages</h3>
+<a href="https://youtu.be/9BllrT3M9ic"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/e7a3cd81-94cb-47b9-8643-608acfa6c662"></a>
+<h3>Video 9: Mixture</h3>
+<a href="https://youtu.be/8nt4pFAnj_Q"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/b693928d-0cae-484b-950e-c713cac7746b"></a>
 <hr/>
 <br>
 Mixtures and Alligation
