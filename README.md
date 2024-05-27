@@ -1,4 +1,4 @@
-<hr>
+![image](https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/b3e49fdf-163c-4b8a-a3c6-de5761c76734)<hr>
 <h1>Aptitude Topics</h1>
 <hr/>
 <h1>Number Series</h1>
@@ -66,7 +66,12 @@ Algebra
 <br>
 Age
 <br>
-Profit and Loss
+<h1>Profit and Loss</h1>
+<h3>Video 1: Introduction</h3>
+  <a href="https://youtu.be/w2xM8vgqYlQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/626ef227-cc67-4f26-a891-2a9e94f497a9"></a>
+<h3>Video 2: Fundamentals</h3>
+  <a href="https://youtu.be/E6bqaLTi7hw"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/9cf234c9-3bdb-4256-aac0-c1023aa97970"></a>
+  <hr/>
 <br>
 Simple Interest
 <br>
