@@ -1,4 +1,3 @@
-![image](https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/b3e49fdf-163c-4b8a-a3c6-de5761c76734)<hr>
 <h1>Aptitude Topics</h1>
 <hr/>
 <h1>Number Series</h1>
