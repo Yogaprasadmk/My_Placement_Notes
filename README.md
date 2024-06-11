@@ -70,6 +70,8 @@ Age
   <a href="https://youtu.be/w2xM8vgqYlQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/626ef227-cc67-4f26-a891-2a9e94f497a9"></a>
 <h3>Video 2: Fundamentals</h3>
   <a href="https://youtu.be/E6bqaLTi7hw"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/9cf234c9-3bdb-4256-aac0-c1023aa97970"></a>
+  <h3>Video 3:Quantity Change</h3>
+  <a href="https://youtu.be/Nt1RLejnesk"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/200149ae-f11b-4bc7-be00-3e4f7ce3c1fd)"/></a>
   <hr/>
 <br>
 Simple Interest
