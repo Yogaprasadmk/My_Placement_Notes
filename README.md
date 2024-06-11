@@ -177,8 +177,8 @@ Comprehension Passages
 Cloze test
 <br>
 <h1>Active and Passive Voice</h1>
-<h3> Active to Passive Voice</h3>
-<a href="https://youtu.be/Bdl4Almqa78?si=bByioUZmiTqe17Ay"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/30b21841-90b7-45bf-a42a-f69e4ea06bb6"/></a>
+<h3> Active to Passive Voiceand PAssive to Actice In One Video</h3>
+<a href="https://youtu.be/55y3HVLMhgU?si=1LrYEzqTGbWec94o"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/262825b9-4451-44b8-867c-7737d3f6a05f"/></a>
 Jumbled words/Paragraphs 
 <br>
 Antonyms and synonyms 
