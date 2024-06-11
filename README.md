@@ -176,6 +176,9 @@ Comprehension Passages
 <br>
 Cloze test
 <br>
+<h1>Active and Passive Voice</h1>
+<h3> Active to Passive Voice</h3>
+<a href="https://youtu.be/Bdl4Almqa78?si=bByioUZmiTqe17Ay"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/30b21841-90b7-45bf-a42a-f69e4ea06bb6"/></a>
 Jumbled words/Paragraphs 
 <br>
 Antonyms and synonyms 
