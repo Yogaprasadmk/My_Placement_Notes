@@ -147,6 +147,11 @@ Alphanumeric series
 <br/>
 Reasoning Analogy 
 <br/>
+<h1>Coding and Decoding</h1>
+  <hr/>
+<h3>Video 1: Lecture 1</h3>
+<a href="https://youtu.be/-KYF8ZZznwY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/fd3e7c85-6aee-4073-a4f7-df5cd8b63067"></a>                                                                                                                    
+<br/>
 Blood Relations 
 <br/>
 Calendars
