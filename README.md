@@ -72,6 +72,12 @@ Age
   <a href="https://youtu.be/E6bqaLTi7hw"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/9cf234c9-3bdb-4256-aac0-c1023aa97970"></a>
   <h3>Video 3:Quantity Change</h3>
   <a href="https://youtu.be/Nt1RLejnesk"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/200149ae-f11b-4bc7-be00-3e4f7ce3c1fd)"/></a>
+  <h3>Video 4: No Profit No Loss</h3>
+  <a href="https://youtu.be/VSkuuVEI5YI"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/9acebc27-c16b-42d9-ab3a-eac772f7cbf2"/></a>
+  <h3>Video 5: Always loss</h3>
+  <a href="https://youtu.be/HQbf39edQ6A"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/cc5cf8de-e3f3-45a2-b22d-ee3efc388cb2"></a>
+  <h3> Video 6: Not each</h3>
+  <a href="https://youtu.be/FCN15zLpe8k"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f80cbcf8-c488-4a9a-a71b-ecc2184c4471"></a>
   <hr/>
 <br>
 Simple Interest
