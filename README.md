@@ -104,8 +104,12 @@ Clocks
 <br>
 Calendars 
 <br>
-Coding-Decoding 
-<br>
+<h1>Coding-Decoding</h1>
+  <br/>
+<h3>Video 1</h3>
+<a href="https://youtu.be/wwN3mJ-b4FY?si=K8OxxLp093f4dtfW"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/7236eded-8b24-455c-b9c4-24e815c35c05"></a>
+<hr/>
+  <br>
 Race
 <br>
 Simplification and Approximation
