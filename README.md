@@ -78,6 +78,14 @@ Age
   <a href="https://youtu.be/HQbf39edQ6A"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/cc5cf8de-e3f3-45a2-b22d-ee3efc388cb2"></a>
   <h3> Video 6: Not each</h3>
   <a href="https://youtu.be/FCN15zLpe8k"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f80cbcf8-c488-4a9a-a71b-ecc2184c4471"></a>
+  <h3>Video 7:Consecutive Sales</h3>
+  <a href="https://youtu.be/4oY1ohS4ybQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ba6116e2-7c7c-4b73-a46b-edb106d6c0a3"></a>
+  <h3>Video 8: More or less</h3>
+    <a href="https://youtu.be/hfdQd7eNebI"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1bf0788a-20b7-438a-9d7f-ab212766fd1e"></a>
+  <h3>Video 9: 'X' C.P ='Y'</h3>
+      <a href="https://youtu.be/hfdQd7eNebI"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/aa5b0ac4-d75f-4a01-9673-ad7b7e202469"/></a>
+  <h3>Video 10:'Remaining Quantity'</h3>
+  <a href="https://youtu.be/y-pPh0pr4Yo"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/98fcc606-a794-402f-b7eb-5859bc25ec76"/></a>
   <hr/>
 <br>
 Simple Interest
@@ -198,18 +206,6 @@ Idioms and phrases
 Vocabulary and grammar
 <br>
 One word Substitution
-<hr>
-<h1>DSA</h1>
-<h3>C++ Basics</h3>
-<a href="https://youtu.be/EAR7De6Goz4"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/198bc73b-9267-4e52-9b2f-ddcdccfa2521"></a>
-<h3>C++ STL</h3>
-<a href="https://youtu.be/RRVYpIET_RU"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/c752733f-0ebc-4f31-a812-be2fded40242"></a>
-<h3>Patterns</h3>
-<a href="https://youtu.be/tNm_NNSB3_w"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f48fac95-1b7d-45de-bb9b-b393d396d551"></a>
-<h3>Basic Maths</h3>
-<a href="https://youtu.be/1xNbjMdbjug"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4d0a4a76-eff4-45d2-a3f0-c05d0b8e0fd1"/></a>
-<h3>Time & Space Complexity</h3>
-<a href="https://youtu.be/FPu9Uld7W-E"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ecca5b4a-d7c4-46d5-a71c-f7a2fdd16d77"/></a>
 <hr>
 <h1>Core Subjects</h1>
   <h2>🌟Operating Systems</h2>
