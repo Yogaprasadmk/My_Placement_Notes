@@ -188,6 +188,13 @@ Clocks
 <br/>
 Dices
 <br/>
+<h1>Problems on Ages</h1>
+<h3>Lecture 1:Intro +  Basic Questions</h3>
+<a href="https://youtu.be/6tuFW7P9WaY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/8b221ec7-cf94-4b46-bd6f-7b7daa328b19"/></a>
+<h3>Lecture 2:Twice / thrice </h3>
+<a href="https://youtu.be/HoCljJREaOA"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/23755015-4624-43da-96ef-2e2bbd7a40a5"></a>
+<h3>lecture 3: Average Age</h3>
+<a href="https://youtu.be/I35hEUt2mDE"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/70546cbe-c933-40f2-99a0-c85508c126bb"></a>
 Deductive Reasoning/Statement Analysis 
 <hr/>
 <h1>Verbal Ability</h1>
