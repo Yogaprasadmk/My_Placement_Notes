@@ -172,7 +172,15 @@ Reasoning Analogy
 <h3>Video 1: Lecture 1</h3>
 <a href="https://youtu.be/-KYF8ZZznwY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/fd3e7c85-6aee-4073-a4f7-df5cd8b63067"></a>                                                                                                                    
 <br/>
-Blood Relations 
+<h1>Blood Relations </h1>
+<h3>Video 1:Basic Relations</h3>
+<a href="https://youtu.be/aAMEz1xfJ5o?si=mMynoryoE8-BH9ym"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/fc16b528-c0b6-4463-aa70-6ebf1ccbb3a9"/></a>
+<h3>Video 2:Family Tree</h3>
+<a href="https://youtu.be/gJtsu49nock?si=SJv1_VXUcY-2e-xE"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1753154d-04f3-4799-a57b-538650fcc006"/></a>
+<h3>VIdeo 3:Medium Level Questions</h3>
+<a href="https://youtu.be/Q9g60Vp_4B0?si=wvWWComzWm2AFJp6"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4dc30f1f-c9e7-4427-92b2-aa9f35d4bc01"></a>
+<h3>Video 4: Pointing to a unknown Person</h3>                                  
+<a href="https://youtu.be/F94XrZzTb90?si=_6R_p3GFlBhcHpVs"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/6c6040e3-6dac-4bb4-95d6-faf6c0265a4f"/></a>
 <br/>
 Calendars
 <br/>
