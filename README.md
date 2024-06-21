@@ -216,6 +216,11 @@ Deductive Reasoning/Statement Analysis
 <hr>
 Passage/Sentence Rearrangement 
 <br>
+<hr/>
+<h1>Subject Verb Agreement</h1>
+<a href="https://youtu.be/tH5QxA25xkk?si=axLJsd6gXiUxCSIS"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/624aa1c0-c139-447e-92ed-67c9737f518e"/></a>
+<hr/>
+<br/>
 Error Detection and Correction
 <br>
 Fill in the Blanks
