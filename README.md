@@ -170,7 +170,7 @@ Reasoning Analogy
 <h1>Coding and Decoding</h1>
   <hr/>
 <h3>Video 1: Lecture 1</h3>
-<a href="https://youtu.be/-KYF8ZZznwY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/fd3e7c85-6aee-4073-a4f7-df5cd8b63067"></a>                                                                                                                    
+<a href="https://youtu.be/-KYF8ZZznwY"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/fd3e7c85-6aee-4073-a4f7-df5cd8b63067"></a>                                                                                                           
 <br/>
 <h1>Blood Relations </h1>
 <h3>Video 1:Basic Relations</h3>
@@ -184,7 +184,22 @@ Reasoning Analogy
 <br/>
 Calendars
 <br/>
-Clocks 
+<hr/>
+<h1>CLocks</h1>
+<h3>Lecture 1:Finding angle</h3>
+<a href="https://youtu.be/ZsW4sfgUgrs?si=sY3m7mmx93MKPRyy"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f1c03ef6-5443-4085-aabb-35c7f3e6119f"/>
+<h3>Lecture 2:Together</h3>
+<a href="https://youtu.be/8KWCtqKpa08?si=XYjhwLTIJ3JCMuoL"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/495e43cd-3d79-48b3-8648-5f52ae8b6d3d"/></a>
+<h3>Lecture 3:Opposite</h3>
+<a href="https://youtu.be/qxjSrwWqefo?si=MRuBP1O91bTCmWOU"/><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/bdcf4ffb-262b-41af-87a6-e375efe6d91c"/></a>
+<h3>Lecture 4:Right ANgle</h3>
+<a href="https://youtu.be/8-viLlRbSQA?si=PFgtcZFd0g3f2_9h"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/a0a11cfe-2721-4578-bcb2-f923e834153c"/></a>
+<h3>Lecture 5:Apart</h3>
+<a href="https://youtu.be/hJ1k2hVSGkg?si=LNKWa_0J44YxLjT6"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/533528f2-452e-4ca0-8104-b5e8dbfc1232"/></a>
+<h3>Lecture 6:Gain and Loss</h3>
+<a href="https://youtu.be/RPsennGSuD8?si=oSVJQTs1J0lr4pUf"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1753358d-f62d-452d-909b-598d9cc98cc4"/></a>
+
+<hr/>
 <br/>
 Dices
 <br/>
