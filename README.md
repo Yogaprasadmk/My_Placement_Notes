@@ -1,4 +1,4 @@
-![image](https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/fca698bb-b3b9-4278-b555-517efa5ff396)<h1>Aptitude Topics</h1>
+<h1>Aptitude Topics</h1>
 <hr/>
 <h1>Number Series</h1>
 <h3>Video 1: Mixture </h3>
