@@ -1,4 +1,4 @@
-<h1>Aptitude Topics</h1>
+![image](https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/fca698bb-b3b9-4278-b555-517efa5ff396)<h1>Aptitude Topics</h1>
 <hr/>
 <h1>Number Series</h1>
 <h3>Video 1: Mixture </h3>
@@ -169,10 +169,18 @@ Puzzles
 <br/>
 Syllogism 
 <br/>
-Cubes 
-<br/>
-Alphanumeric series
-<br/>
+<h1>Cubes & dices </h1>
+    <h3>Introduction</h3>
+    <a href="https://youtu.be/2ukaXdtUlfg"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/0d2c1658-d0a2-4d1d-bceb-672da34a085d"/></a>
+    <h3>Type 1</h3>
+    <a href="https://youtu.be/B8JaMMhbrYU"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/a4120777-8716-425f-84d5-887fc9a3fc2a"/></a>
+    <h3>Type 2</h3>
+  <a href="https://youtu.be/i-oVuKTvb2g"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/89ca1a9f-5a56-49b7-848d-7eaff374e59c"/></a>
+    <h3>Type 3</h3>
+    <a href="https://youtu.be/bTLseiM_3uU"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f8649adc-3f3c-43dd-811b-09be236f995b"/></a>
+    <h3>Type 4</h3>
+  <a href="https://youtu.be/31N0rA6KXQ8"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/7884a3c8-bd34-4c7c-8deb-714df02ff628)"/></a>
+    <br/>
 Reasoning Analogy 
 <br/>
 <h1>Coding and Decoding</h1>
@@ -190,7 +198,16 @@ Reasoning Analogy
 <h3>Video 4: Pointing to a unknown Person</h3>                                  
 <a href="https://youtu.be/F94XrZzTb90?si=_6R_p3GFlBhcHpVs"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/6c6040e3-6dac-4bb4-95d6-faf6c0265a4f"/></a>
 <br/>
-Calendars
+<hr/>
+<h1>Calendars</h1>
+<h3>Video 1</h3>
+<a href="https://youtu.be/hGFGybSQDxQ"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/a121c3c1-8a30-4836-9825-77f492a911c9"/></a>
+<h3>Video 2</h3>
+<a href="https://youtu.be/cTcTYrWeA2M"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4ed33873-1106-4c90-8aa7-45be1dce4b8c"/></a>
+<h3>Video 3</h3>
+<a href="https://youtu.be/3_x45BTER3Y"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/a8702915-808d-422c-8998-cd48d9706741"/></a>
+<h3>Video 4</h3>
+<a href="https://youtu.be/FilCFKbmNVg"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/6c939f8c-21fe-4e44-b35c-e552d1eacdff"/></a>
 <br/>
 <hr/>
 <h1>CLocks</h1>
@@ -206,10 +223,7 @@ Calendars
 <a href="https://youtu.be/hJ1k2hVSGkg?si=LNKWa_0J44YxLjT6"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/533528f2-452e-4ca0-8104-b5e8dbfc1232"/></a>
 <h3>Lecture 6:Gain and Loss</h3>
 <a href="https://youtu.be/RPsennGSuD8?si=oSVJQTs1J0lr4pUf"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1753358d-f62d-452d-909b-598d9cc98cc4"/></a>
-
 <hr/>
-<br/>
-Dices
 <br/>
 <h1>Problems on Ages</h1>
 <h3>Lecture 1:Intro +  Basic Questions</h3>
