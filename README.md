@@ -264,6 +264,15 @@ Comprehension Passages
 <br>
 Cloze test
 <br>
+  <h1>Direct to Indirect</h1>
+  <h3>Lecture 1</h3>
+  <a href="https://youtu.be/KqhclbKYz88?si=XJKXWEArYt55ATAD"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/9e096c9c-d35e-4e53-8583-b672f8a5b271"/></a>
+  <h3>Lecture 2</h3>
+  <a href="https://youtu.be/ocasWNnmhts?si=b3OzMTbfj2Fldrc1"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/4ad416bd-aef0-45f7-90b5-00705ff10294"/></a>
+  <h3>Lecture 3</h3>
+  <a href="https://youtu.be/PMFRiqCmXSw?si=GzqqelnUt2CwCskS"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/e6e0d1b3-3d31-4a7b-879c-b3b41ea4d284"/></a>
+  <h3>Lecture 4</h3>
+  <a href="https://youtu.be/UhktJQTzRkA?si=RFnh37qdgWYz3t1k"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/063ea892-7b34-4cd5-9b1c-afc3cbd44343"/></a>
 <h1>Active and Passive Voice</h1>
 <h3> Active to Passive Voiceand PAssive to Actice In One Video</h3>
 <a href="https://youtu.be/55y3HVLMhgU?si=1LrYEzqTGbWec94o"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/262825b9-4451-44b8-867c-7737d3f6a05f"/></a>
