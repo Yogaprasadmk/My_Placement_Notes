@@ -167,7 +167,20 @@ Assumptions and Conclusions, Courses of Action
 <br/>
 Puzzles 
 <br/>
-Syllogism 
+<h1>Syllogism </h1>
+  <h3>Video 1</h3>
+    <a href="https://youtu.be/FIBSnkTJ_zg?si=5jDcUXaKdfKsd-oy"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/d67f6d90-90ac-4da6-b411-e4eb7df79fc7"/></a>
+    <h3>Video 2</h3>
+    <a href="https://youtu.be/oHq1p6sesiM?si=_Vb7C7PfAgP_aBQ7"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/96df1c9b-4b9a-431d-8a56-2d1db43b2b04"/></a>
+    <h3>Video 3</h3>
+    <a href="https://youtu.be/X6XW2m4fK24?si=JsGua6b4os5nn3_y"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/c2d0918f-0d22-4d94-b449-2c52689c54ac"/></a>
+    <h3>Video 4</h3>
+    <a href="https://youtu.be/nx6nGU9eMpI?si=msXFqJQ2bJ2sLh0F"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/3a84666e-ad6d-478d-8b41-d0a10ebbd4b2"/></a>
+    <h3>Video 5</h3>
+    <a href="https://youtu.be/IephHvjz_-Y?si=PXi1w2fWxUP5fgMv"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/feeed2ee-4907-415f-9e88-401f42b0dcd0"/></a>
+    <h3>Video 6</h3>
+    <a href="https://youtu.be/H0WnK7fNtPA?si=LJTlHiG_NgoDsk2Y"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/e02ac2d5-e44b-4855-9120-72a0073ce628"/></a>
+    
 <br/>
 <h1>Cubes & dices </h1>
     <h3>Introduction</h3>
