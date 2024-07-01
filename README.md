@@ -1,4 +1,4 @@
-![image](https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/72ae8cd3-b3e6-4cba-87c1-3146da288e61)<h1>Aptitude Topics</h1>
+<h1>Aptitude Topics</h1>
 <hr/>
 <h1>Number Series</h1>
 <h3>Video 1: Mixture </h3>
@@ -204,9 +204,9 @@ Puzzles
     <a href="https://youtu.be/kI6FzehrsHo?si=A_reAkYw1dddOMUP"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/8fb8d943-efe8-48b6-851b-7f9b8adc6a4d"></a>
     <h3>New Statement</h3>
     <a href="https://youtu.be/m4q45bHjw1w?si=wV-G4ItkR9watKBd"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/c40240a1-2411-43cb-b17b-27df643e258c"></a>
-    <h3>Complementary Pair/h3>
+    <h3>Complementary Pair</h3>
     <a href="https://youtu.be/MzCPseEkXSE?si=SX8yGKOpeO31PuQf"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ef851dd8-4436-4aac-95f2-989449b4a7fe"></a>
-    <h3>Introduction</h3>
+    <h3>COnclusion/h3>
     <a href="https://youtu.be/iJQFclulKlA?si=4k_RGR8yxV-y-xRc"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/68bab00b-d8c8-4dbd-a6ad-fd45f1958350"></a>
     
 <br/>
