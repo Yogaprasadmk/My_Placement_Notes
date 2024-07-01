@@ -1,4 +1,4 @@
-<h1>Aptitude Topics</h1>
+![image](https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/72ae8cd3-b3e6-4cba-87c1-3146da288e61)<h1>Aptitude Topics</h1>
 <hr/>
 <h1>Number Series</h1>
 <h3>Video 1: Mixture </h3>
@@ -194,7 +194,21 @@ Puzzles
     <h3>Type 4</h3>
   <a href="https://youtu.be/31N0rA6KXQ8"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/7884a3c8-bd34-4c7c-8deb-714df02ff628)"/></a>
     <br/>
-Reasoning Analogy 
+    <hr/>
+    <h1>COding Inequality</h1>
+    <h3>Introduction</h3>
+    <a href="https://youtu.be/h9Iu_VKfh1M?si=AVuwWteVlm0LFWFu"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/f10c7dd7-35c1-4362-855c-3a3da252efde"></a>
+    <h3>Direct Statement</h3>
+    <a href="https://youtu.be/XsK6fMrq3e4?si=azKFrg5_F8huySMn"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/1a7829d6-1916-4983-802a-305136598906"></a>
+    <h3>Connecting statement</h3>
+    <a href="https://youtu.be/kI6FzehrsHo?si=A_reAkYw1dddOMUP"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/8fb8d943-efe8-48b6-851b-7f9b8adc6a4d"></a>
+    <h3>New Statement</h3>
+    <a href="https://youtu.be/m4q45bHjw1w?si=wV-G4ItkR9watKBd"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/c40240a1-2411-43cb-b17b-27df643e258c"></a>
+    <h3>Complementary Pair/h3>
+    <a href="https://youtu.be/MzCPseEkXSE?si=SX8yGKOpeO31PuQf"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/ef851dd8-4436-4aac-95f2-989449b4a7fe"></a>
+    <h3>Introduction</h3>
+    <a href="https://youtu.be/iJQFclulKlA?si=4k_RGR8yxV-y-xRc"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/68bab00b-d8c8-4dbd-a6ad-fd45f1958350"></a>
+    
 <br/>
 <h1>Coding and Decoding</h1>
   <hr/>
@@ -273,7 +287,16 @@ Cloze test
   <a href="https://youtu.be/PMFRiqCmXSw?si=GzqqelnUt2CwCskS"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/e6e0d1b3-3d31-4a7b-879c-b3b41ea4d284"/></a>
   <h3>Lecture 4</h3>
   <a href="https://youtu.be/UhktJQTzRkA?si=RFnh37qdgWYz3t1k"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/063ea892-7b34-4cd5-9b1c-afc3cbd44343"/></a>
-<h1>Active and Passive Voice</h1>
+<hr/>
+<br/>
+<h1>Indirect to direct </h1>
+  <h3>LEcture 1</h3>
+  <a href="https://youtu.be/cCAEO9bUcdY?si=hRahu-_6k7FTel5k"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/9508f576-04ac-42c9-a77b-6413b03516b0"></a>
+ <h3>LEcture 2</h3>
+ <a href="https://youtu.be/_HCEVCsD5D0?si=KoR0HL-3Pa8-hxBz"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/3920b625-d028-4836-9918-4864ef18f84d"/></a>
+  <hr/>
+  <br/>
+  <h1>Active and Passive Voice</h1>
 <h3> Active to Passive Voiceand PAssive to Actice In One Video</h3>
 <a href="https://youtu.be/55y3HVLMhgU?si=1LrYEzqTGbWec94o"><img src="https://github.com/Yogaprasadmk/My_Placement_Notes/assets/120255515/262825b9-4451-44b8-867c-7737d3f6a05f"/></a>
 Jumbled words/Paragraphs 
